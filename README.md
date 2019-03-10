@@ -1,6 +1,6 @@
 # Start code for Mongoose Crud Tutorial
 
-Use this start code to get a quick start with this great tutorial:
+Use the start code (crud.js) to get a quick start with this great tutorial:
 
 [https://vegibit.com/mongoose-crud-tutorial/#mongodb-schemas](https://vegibit.com/mongoose-crud-tutorial/#mongodb-schemas)
 
